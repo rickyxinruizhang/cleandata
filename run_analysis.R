@@ -19,7 +19,6 @@ analyse<-function(){
   vades<-read.csv(desfile,colClasses="character", nrows=561, sep="",header=FALSE, row.names=NULL)
   label<-read.csv(labelfile,colClasses="character", nrows=6, sep="",header=FALSE, row.names=NULL)
   
-  hhh<<-trainsub
   names(trainset)<-as.character(1:ncol(trainset))
   trainset1<-data.frame(subject=unlist(trainsub),activity=unlist(trainac),trainset)
   
