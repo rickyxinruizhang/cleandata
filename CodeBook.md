@@ -8,36 +8,36 @@ This is a 180*88 file.
 The first and second colume shows the subject number and the activity name, respectively. 
 There are 30 subjects who took the records and there are six activity names called:
 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIR
-4 SITTING
-5 STANDING
-6 LAYING
+1 WALKING,
+2 WALKING_UPSTAIRS,
+3 WALKING_DOWNSTAIR,
+4 SITTING,
+5 STANDING,
+6 LAYING,
 
 The remaining variable are the mean value mean() and stand deviation value std() of 
-tBodyAcc-XYZ 
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
-angle(gravityMean)
-angle(tBodyAccMean)
-angle(tBodyAccJerkMean)
-angle(tBodyGyroMean)
-angle(tBodyGyroJerkMean)
+tBodyAcc-XYZ, 
+tGravityAcc-XYZ,
+tBodyAccJerk-XYZ,
+tBodyGyro-XYZ,
+tBodyGyroJerk-XYZ,
+tBodyAccMag,
+tGravityAccMag,
+tBodyAccJerkMag,
+tBodyGyroMag,
+tBodyGyroJerkMag,
+fBodyAcc-XYZ,
+fBodyAccJerk-XYZ,
+fBodyGyro-XYZ,
+fBodyAccMag,
+fBodyAccJerkMag,
+fBodyGyroMag,
+fBodyGyroJerkMag,
+angle(gravityMean),
+angle(tBodyAccMean),
+angle(tBodyAccJerkMean),
+angle(tBodyGyroMean),
+angle(tBodyGyroJerkMean),
 and so on. 
 
 in which XYZ means there exists 3 varibles for 3 directions
