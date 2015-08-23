@@ -10,7 +10,7 @@ There are 30 subjects who took the records and there are six activity names call
 
 1 WALKING
 2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
+3 WALKING_DOWNSTAIR
 4 SITTING
 5 STANDING
 6 LAYING
@@ -37,8 +37,9 @@ angle(gravityMean)
 angle(tBodyAccMean)
 angle(tBodyAccJerkMean)
 angle(tBodyGyroMean)
-angle(tBodyGyroJerkMean) 
+angle(tBodyGyroJerkMean)
 and so on. 
+
 in which XYZ means there exists 3 varibles for 3 directions
 
 To be exact, they are the mean and std type value in the complete list in feature.txt in the next folder. Please refer to it for more infomation.
