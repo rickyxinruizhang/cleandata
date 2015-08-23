@@ -1,6 +1,6 @@
 A code book to describe the newset.txt data file
 
-This file shows the average value of mean and standard deviation of 86 variables for each subject and each activity.
+This file shows the average value of mean and standard deviation of 86 variables for each subject who carries out the experiment and each activity they are required to perform.
 They are calculated (taking average) from several meansurements for each subject and each subject, originally.
 
 This is a 180*88 file.
@@ -43,3 +43,8 @@ and so on.
 in which XYZ means there exists 3 varibles for 3 directions
 
 To be exact, they are the mean and std type value in the complete list in feature.txt in the next folder. Please refer to it for more infomation.
+
+Notes: 
+======
+- Each variable(features) are normalized and bounded within [-1,1].
+- Each feature vector, with the corresponding subject number and activity name, is a row on the text file.
