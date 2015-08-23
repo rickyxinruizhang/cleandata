@@ -1,4 +1,5 @@
 A code book to describe the newset.txt data file
+======
 
 This file shows the average value of mean and standard deviation of 86 variables for each subject who carries out the experiment and each activity they are required to perform.
 They are calculated (taking average) from several meansurements for each subject and each subject, originally.
@@ -8,9 +9,12 @@ This is a 180*88 file.
 The first and second colume shows the subject number and the activity name, respectively. 
 There are 30 subjects who took the records and there are six activity names called:
 
-1 WALKING,
-2 WALKING_UPSTAIRS,
-3 WALKING_DOWNSTAIR,
+1 WALKING
+
+2 WALKING_UPSTAIRS
+
+3 WALKING_DOWNSTAIR
+
 4 SITTING,
 5 STANDING,
 6 LAYING,
